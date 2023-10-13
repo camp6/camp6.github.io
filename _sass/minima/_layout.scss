@@ -4,7 +4,7 @@
 .site-header {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-left: calc((100% - $content-width + ($spacing-unit * 2))/2);
+  margin-left: calc((100% - $content-width + ($spacing-unit * 2)));
   /* border-top: 5px solid $grey-color-dark; */ 
   border-bottom: 1px solid $grey-color-light;
   padding-bottom: 10px;
