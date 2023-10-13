@@ -22,10 +22,10 @@ The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-
 * Experimental syntax, semantics, or phonology
 
 ## Important Dates
-All deadlines are 11:59 PM PST.
+All deadlines are 11:59 PM PST. **NOTE:** the abstract deadline has been EXTENDED to October 18th (previously Oct. 15th).
 
 | Oct. 8 | Intention to submit/review |
-| Oct. 15 | Abstract deadline |
+| Oct. 18 | Abstract deadline |
 | Dec. 1 | Notification of decision |
 | Dec. 10 | Registration deadline |
 | Jan. 13-14 | CAMP\[6\]! |
