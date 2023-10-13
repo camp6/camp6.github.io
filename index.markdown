@@ -11,7 +11,7 @@ permalink:
 The sixth installment of CAMP is coming to Stanford on January 13-14, 2024!
 
 ## What is CAMP?
-The **Ca**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-day workshop to promote psycholinguistics research in California. All are welcome to submit, but student and post-doc research will be prioritized. Research areas include, but are not limited to:
+The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-day workshop to promote psycholinguistics research in California. All are welcome to submit, but student and post-doc research will be prioritized. Research areas include, but are not limited to:
 * Adult and child language processing
 * Language comprehension
 * Language planning and production
@@ -26,7 +26,6 @@ All deadlines are 11:59 PM PST.
 
 | Oct. 8 | Intention to submit/review |
 | Oct. 15 | Abstract deadline |
-| Nov. 15 | Review deadline |
 | Dec. 1 | Notification of decision |
 | Dec. 10 | Registration deadline |
 | Jan. 13-14 | CAMP\[6\]! |

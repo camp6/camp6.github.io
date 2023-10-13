@@ -22,9 +22,10 @@ title: CAMP[6]
 email: camp-stanford@lists.stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   CAMP[6] is organized by Judith Degen, with much help from
-  our undergraduate and graduate volunteers. It is made possible
-  with generous funding from the Stanford Linguistics Department.
-  CAMP is meta-organized by Jesse Harris (UCLA) and Elsi Kaiser (USC).
+  our graduate and undergraduate volunteers. It is made possible
+  with generous funding from the Stanford Linguistics Department
+  and the Stanford School for Humanities and Sciences. CAMP is
+  meta-organized by Jesse Harris (UCLA) and Elsi Kaiser (USC).
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

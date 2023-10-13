@@ -8,9 +8,9 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              Contact {{ site.author | escape }}
+              Email {{ site.author | escape }}
             {%- else -%}
-              Contact {{ site.title | escape }}
+              Email {{ site.title | escape }}
             {%- endif -%}
             </li>
             {%- if site.email -%}
