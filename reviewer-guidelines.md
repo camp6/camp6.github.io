@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guidelines for Reviewers
+title: Reviewer Guidelines
 permalink: /reviewer-guidelines/
 order: 3
 ---
