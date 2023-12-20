@@ -226,8 +226,8 @@ pre {
  * Tables
  */
 table {
+  font-size: $base-font-size / 1.2;
   margin-bottom: $spacing-unit;
-  width: 50%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
@@ -238,7 +238,7 @@ table {
     }
   }
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: ($spacing-unit / 3) ($spacing-unit / 4);
   }
   th {
     background-color: lighten($grey-color-light, 3%);
@@ -248,4 +248,8 @@ table {
   td {
     border: 0px solid $grey-color-light;
   }
+}
+
+.smaller-text {
+  font-size:  $base-font-size / 1.1;
 }
