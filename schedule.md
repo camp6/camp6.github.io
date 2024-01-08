@@ -65,7 +65,7 @@ order: 3
 | #  | Title                                                                                                   | Presenter       | Affiliation    |
 |----|---------------------------------------------------------------------------------------------------------|-----------------|----------------|
 | 1  | Temporal stability and the online assignment of hierarchical prosodic structure                         | Emily Knick     | UCSC           |
-| 2  | Language models can adapt better to within-clause than across-clause exchange errors                    | Yanting Li      | Irvine         |
+| 2  | Language models can adapt better to within-clause than across-clause exchange errors                    | Jiaxuan Li      | Irvine         |
 | 3  | Sublexical ARTifacts: Bottom-Up Interference in a Lexical Category Search                               | Will Clapp   | Stanford       |
 | 4  | Recovery (...or not) from prediction failure                                                            | Barbora Hlachova| Davis          |
 | 5  | The effects of frequency and predictability on the representation of multi-word phrases in English      | Zachary Houghton| Davis          |
@@ -93,11 +93,10 @@ order: 3
 | #  | Title                                                                                                     | Presenter        | Affiliation |
 |----|-----------------------------------------------------------------------------------------------------------|------------------|-------------|
 | 1  | Experimental Paradigms Influence Scalar Implicature Estimation                                           | Zhuang Qiu       | Davis       |
-| 2  | Processing covert long-distance dependencies: a study on Turkish wh-constructions                        | Duygu Demiray    | UCSC        |
-| 3  | Effects of context and proficiency on processing difficulty during L2 reading                            | Chen Liu         | Merced      |
-| 4  | Bilingual Language Production: Investigating the Independent Components of Cross-language Facilitation...| Hannah Evans     | CSU East Bay |
-| 5  | Production Preferences In The English Spray-Load Alternation: Do Speakers Prioritize Accessibility...?   | Emily Goodwin    | Stanford     |
-| 6  | Can Language Model Surprisal Predict Acceptability and Satiation?                                        | Jonathan Merchan | Stanford    |
-| 7  | Scene descriptions reveal meaningful clustering in language production.                                  | Karina Tachihara | Davis       |
-| 8  | Exploring the Dual Nature of the Mandarin Coverb GEI in Passive and Object-Preposing Constructions      | Wenjun Ma        | UCSD        |
-| 9  | Are Informativity-Based Linguistic Predictions Driven by Gender-Stereotypical Knowledge?                 | Hailin Hao       | USC         |
+| 2  | Effects of context and proficiency on processing difficulty during L2 reading                            | Chen Liu         | Merced      |
+| 3  | Bilingual Language Production: Investigating the Independent Components of Cross-language Facilitation...| Hannah Evans     | CSU East Bay |
+| 4  | Production Preferences In The English Spray-Load Alternation: Do Speakers Prioritize Accessibility...?   | Emily Goodwin    | Stanford     |
+| 5  | Can Language Model Surprisal Predict Acceptability and Satiation?                                        | Jonathan Merchan | Stanford    |
+| 6  | Scene descriptions reveal meaningful clustering in language production.                                  | Karina Tachihara | Davis       |
+| 7  | Exploring the Dual Nature of the Mandarin Coverb GEI in Passive and Object-Preposing Constructions      | Wenjun Ma        | UCSD        |
+| 8  | Are Informativity-Based Linguistic Predictions Driven by Gender-Stereotypical Knowledge?                 | Hailin Hao       | USC         |
