@@ -64,15 +64,14 @@ order: 3
 
 | #  | Title                                                                                                   | Presenter       | Affiliation    |
 |----|---------------------------------------------------------------------------------------------------------|-----------------|----------------|
-| 1  | Eye-Tracking Measures of Processing Difficulty in Standard Arabic                                       | Nicole Dodd     | Davis          |
-| 2  | Temporal stability and the online assignment of hierarchical prosodic structure                         | Emily Knick     | UCSC           |
-| 3  | Language models can adapt better to within-clause than across-clause exchange errors                    | Yanting Li      | Irvine         |
-| 4  | Sublexical ARTifacts: Bottom-Up Interference in a Lexical Category Search                               | Will Clapp   | Stanford       |
-| 5  | Recovery (...or not) from prediction failure                                                            | Barbora Hlachova| Davis          |
-| 6  | The effects of frequency and predictability on the representation of multi-word phrases in English      | Zachary Houghton| Davis          |
-| 7  | How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study                                  | Marina Zhukova  | UCSB           |
-| 8  | A computational model for projection inferences in clause-embedding predicates                          | Dingyi Pan      | UCSD/Stanford  |
-| 9  | Exclusive Disjunction as a Compound Implication                                                        | Casey Felton    | Davis          |
+| 1  | Temporal stability and the online assignment of hierarchical prosodic structure                         | Emily Knick     | UCSC           |
+| 2  | Language models can adapt better to within-clause than across-clause exchange errors                    | Yanting Li      | Irvine         |
+| 3  | Sublexical ARTifacts: Bottom-Up Interference in a Lexical Category Search                               | Will Clapp   | Stanford       |
+| 4  | Recovery (...or not) from prediction failure                                                            | Barbora Hlachova| Davis          |
+| 5  | The effects of frequency and predictability on the representation of multi-word phrases in English      | Zachary Houghton| Davis          |
+| 6  | How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study                                  | Marina Zhukova  | UCSB           |
+| 7  | A computational model for projection inferences in clause-embedding predicates                          | Dingyi Pan      | UCSD/Stanford  |
+| 8  | Exclusive Disjunction as a Compound Implication                                                        | Casey Felton    | Davis          |
 
 **Poster Session 3 (Sunday)**
 
