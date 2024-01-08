@@ -23,7 +23,7 @@ order: 3
 | 2:30  | 2:55  | The interaction of syntactic focus and semantic prediction in comprehension                        | Eleonora Beier, Adrian Zhou, Fernanda Ferreira         | Davis       |
 | 2:55  | 3:20  | On the interplay of syntax, verb directedness and individual differences: Exploring the processing of reflexive anaphors with mouse-tracking over the internet | Metehan Oğuz, Elsi Kaiser | USC         |
 | 3:20  | 3:45  | "Syntax-Specialized" Attention Heads in Large Language Models are Influenced by Semantics          | Thomas McGee, Idan Blank                               | UCLA        |
-| 3:45  | 4:05  | Coffee Break                                                                                       |                                                         |             |
+| 3:45  | 4:05  | Coffee Break ☕                                                                                     |                                                         |             |
 | 4:05  | 4:50  | Poster Session 2                                                                                   |                                                         |             |
 
 **Sunday (Jan 14th)**

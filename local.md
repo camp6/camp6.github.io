@@ -5,7 +5,7 @@ permalink: /local-information/
 order: 4
 ---
 
-CAMP[6] will be held at Stanford University in Palo Alto, CA. All events will be held in the **Jon Barwise room of Cordura Hall** at [210 Panama Street, Stanford, CA](https://maps.app.goo.gl/Hm5YWpk2axRXUaXV7) (the Center for the Study of Language and Information).
+CAMP[6] will be held at Stanford University in Palo Alto, CA. All events will be held in the **Jon Barwise room of Cordura Hall** at [210 Panama Street, Stanford, CA](https://maps.app.goo.gl/Hm5YWpk2axRXUaXV7) (the Center for the Study of Language and Information). **Parking** can be found in the parking lot across from the conference venue on Panama Street.
 
 ## Accomodations
 While we are unable to provide accommodations, we may be able to coordinate crash space for students. Please indicate your interest in crash space on the [registration form](https://forms.gle/VijicvuhyDV5NC3T9). Standard hotels in the area include
