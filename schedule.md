@@ -84,9 +84,8 @@ order: 3
 | 5  | [Striking balance: Exploring a neural theory of sensory perception in autism through a probabilistic model of audio-visual speech perception](https://oxford-abstracts.s3.amazonaws.com/25e45794-6918-4d4a-9213-74e062c588fe.pdf) | Grace Brown        | Stanford    |
 | 6  |[Reaching for the unknown: sentence planning under message uncertainty and expectation violation](https://oxford-abstracts.s3.amazonaws.com/c5294bb9-b9de-4d79-b4ec-295c1f6a697d.pdf)|ber Jiang        | UCSD        |
 | 7  | [Exempt reflexive mình in Vietnamese: Effects of person features and verb type](https://oxford-abstracts.s3.amazonaws.com/4f26dbd6-d12a-493a-ac0f-beeca328ac16.pdf)                                    | Linh P          | USC         |
-| 8  |[Cognate processing in bilingual people with aphasia](https://oxford-abstracts.s3.amazonaws.com/eff031a7-ba4e-4dbd-a8e4-6bdfa4fa90c5.pdf)| Chelsea Miller     | CSU East Bay|
-| 9  | [Producing Recursive Possessive Structures: a Speeded Repetition Task Investigating Automaticity in Phrasal Production](https://oxford-abstracts.s3.amazonaws.com/657e9f3f-4342-463e-8378-adcc8855f93d.pdf)                | Thomas Morton      | UCSD        |
-| 10 |[VIDUL: A Tool for Elevating Inclusivity in Psycholinguistics](https://oxford-abstracts.s3.amazonaws.com/94256440-e6f3-4fa1-a647-70ade215f7f1.pdf)| Anirudh Murugesan  | Davis       |
+| 8  | [Producing Recursive Possessive Structures: a Speeded Repetition Task Investigating Automaticity in Phrasal Production](https://oxford-abstracts.s3.amazonaws.com/657e9f3f-4342-463e-8378-adcc8855f93d.pdf)                | Thomas Morton      | UCSD        |
+| 9 |[VIDUL: A Tool for Elevating Inclusivity in Psycholinguistics](https://oxford-abstracts.s3.amazonaws.com/94256440-e6f3-4fa1-a647-70ade215f7f1.pdf)| Anirudh Murugesan  | Davis       |
 
 **Poster Session 4 (Sunday)**
 
