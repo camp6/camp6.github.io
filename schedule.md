@@ -83,7 +83,7 @@ order: 3
 | 4  | [Noisy population dynamics lead to efficiently compressed vocabularies](https://oxford-abstracts.s3.amazonaws.com/9e487950-2901-4534-9158-39b907673c33.pdf)                                            | Nathaniel Imel     | Irvine      |
 | 5  | [Striking balance: Exploring a neural theory of sensory perception in autism through a probabilistic model of audio-visual speech perception](https://oxford-abstracts.s3.amazonaws.com/25e45794-6918-4d4a-9213-74e062c588fe.pdf) | Grace Brown        | Stanford    |
 | 6  | [Production Preferences In The English Spray-Load Alternation: Do Speakers Prioritize Accessibility or Meaning?](https://oxford-abstracts.s3.amazonaws.com/2f74ce6f-480e-442b-ac9c-e1d1d7ec84ca.pdf)   | Emily Goodwin    | Stanford     |
-| 7  | [Exempt reflexive mình in Vietnamese: Effects of person features and verb type](https://oxford-abstracts.s3.amazonaws.com/4f26dbd6-d12a-493a-ac0f-beeca328ac16.pdf)                                    | Linh P          | USC         |
+| 7  | [Exempt reflexive mình in Vietnamese: Effects of person features and verb type](https://oxford-abstracts.s3.amazonaws.com/4f26dbd6-d12a-493a-ac0f-beeca328ac16.pdf)                                    | Linh Pham          | USC         |
 | 8  | [Producing Recursive Possessive Structures: a Speeded Repetition Task Investigating Automaticity in Phrasal Production](https://oxford-abstracts.s3.amazonaws.com/657e9f3f-4342-463e-8378-adcc8855f93d.pdf)                | Thomas Morton      | UCSD        |
 | 9 |[VIDUL: A Tool for Elevating Inclusivity in Psycholinguistics](https://oxford-abstracts.s3.amazonaws.com/94256440-e6f3-4fa1-a647-70ade215f7f1.pdf)| Anirudh Murugesan  | Davis       |
 
